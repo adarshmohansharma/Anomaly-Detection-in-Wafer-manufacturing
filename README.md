@@ -1,1 +1,3 @@
 # Anomaly-Detection-in-Wafer-manufacturing
+
+In wafer production Industry, the main goal is to ensure the creation of flawless, high-quality wafers. Imperfect wafers can lead to a range of issues, such as reduced output, increased costs, and potential harm to subsequent processes. Swift identification and resolution of anomalies in the manufacturing process, particularly defects in wafers, are essential for maintaining top-notch products and efficient operations. This task involves detecting faulty wafers in a data-rich production process, often referred to as Industrial Internet of Things (IIoT) data. The complexity of this task is amplified by the rarity of anomalies.
